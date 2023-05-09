@@ -27,7 +27,7 @@ Besides technology, my personal interests include online gaming and watching mov
 		
 </br>
 
-### Main skills:
+### Já utilizo no meu dia-a-dia / Main Skills:
 <div>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -35,20 +35,20 @@ Besides technology, my personal interests include online gaming and watching mov
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
-### Learning at the moment: 
+### Estudando no momento / Learning at the moment: 
 <div>
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-### Future Interest: 
+### Qual a próxima linguagem / What's next: 
 <div>
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
-### Contatos:
+### Contatos / Contact Information:
 <div>
 	<a href="https://contate.me/5541992152205" target= "_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"><a/>
 	<a href="https://www.linkedin.com/in/ghgarayo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
