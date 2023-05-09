@@ -23,9 +23,10 @@ Besides technology, my personal interests include online gaming and watching mov
 	<a href="https://github.com/ghgarayo">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghgarayo&layout=compact&langs_count=7&theme=dark"/>
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghgarayo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ghgarayo)"/>
 </div>
 
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ghgarayo)"/>
+	
 </br>
 
 ### Main skills:
