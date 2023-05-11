@@ -26,7 +26,7 @@ Besides technology, my personal interests include online gaming and watching mov
 </div>
 	
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ghgarayo" />
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ghgarayo&layout=compact" />
 </div>	
 	
 </br>
