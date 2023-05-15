@@ -26,6 +26,7 @@ Besides technology, my personal interests include online gaming and watching mov
 </div>
 	
 <div align="center">
+	<p align="center"> Últimos 14 dias / Last 14 days:
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ghgarayo&layout=compact" />
 </div>	
 	
