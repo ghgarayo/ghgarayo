@@ -16,21 +16,25 @@ I have been focusing on developing my skills in languages such as JavaScript, Re
 
 Besides technology, my personal interests include online gaming and watching movies and series. I am a proactive person and enjoy always learning new things. I am excited to apply my knowledge to challenging projects in a dynamic and collaborative team.
 
-</br>
-</br>
+<br />
+<br />
 
 <div align="center">
 	<a href="https://github.com/ghgarayo">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghgarayo&layout=compact&langs_count=7&theme=dark"/>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghgarayo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghgarayo&layout=compact&langs_count=7&theme=dark"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghgarayo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-	</br>
-	
+</br>
+
 <div align="center">
+	<p>Desde 9 de maio de 2023 / Since May, 9th 2023</p>
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ghgarayo&layout=compact" />
 </div>	
-	
-</br>
+<div align="flex-start">
+	<img src="https://wakatime.com/badge/user/b46671ce-ce7f-43de-9883-066dcc605706.svg" />
+</div>	
+<br />
+
 
 ### Já utilizo no meu dia-a-dia / Main Skills:
 <div>
