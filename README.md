@@ -1,3 +1,10 @@
+### Contatos / Contact Information:
+<div>
+	<a href="https://contate.me/ghgarayo" target= "_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"><a/>
+	<a href="https://www.linkedin.com/in/ghgarayo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href = "mailto:ghgarayo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>	
+</div>
+
 ### PT-BR: </br>
 Olá 👋, bem vindo ao meu repositório!!
 
@@ -46,20 +53,15 @@ Besides technology, my personal interests include online gaming and watching mov
 
 ### Estudando no momento / Learning at the moment: 
 <div>
+	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
 ### Qual a próxima linguagem / What's next: 
 <div>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
 </div>
 
-### Contatos / Contact Information:
-<div>
-	<a href="https://contate.me/ghgarayo" target= "_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"><a/>
-	<a href="https://www.linkedin.com/in/ghgarayo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	<a href = "mailto:ghgarayo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>	
-</div>
