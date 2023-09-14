@@ -8,7 +8,7 @@
 ### PT-BR: </br>
 Olá 👋, bem vindo ao meu repositório!!
 
-Meu nome é Gustavo Garayo, mas pode me chamar de Gus! Sou estudante de Sistemas de Informação na Universidade Positivo, com conclusão prevista para junho de 2025. Atualmente, sou estagiário há 6 meses com foco em desenvolvimento de aplicações web.  Tenho quase uma década de experiência trabalhando em diferentes áreas, como analista de suporte e consultor de vendas. Durante esse tempo, desenvolvi habilidades valiosas em comunicação, resolução de problemas e trabalho em equipe.
+Meu nome é Gustavo Garayo, mas pode me chamar de Gus! Sou estudante de Sistemas de Informação na Universidade Positivo, com conclusão prevista para junho de 2025. Atualmente, sou estagiário há um ano com foco em desenvolvimento de aplicações web.  Tenho quase uma década de experiência trabalhando em diferentes áreas, como analista de suporte e consultor de vendas. Durante esse tempo, desenvolvi habilidades valiosas em comunicação, resolução de problemas e trabalho em equipe.
 
 Tenho focado para desenvolver minhas habilidades em linguagens como JavaScript,  ReactJS, HTML,  CSS e Java, bem como frameworks como Spring Boot e NodeJS.
 
@@ -17,7 +17,7 @@ Além de tecnologia, meus gostos pessoais incluem jogos online e assistir a film
 ### EN-US: </br>
 Hello there 👋, welcome to my repo!!
 
-my name is Gustavo Garayo, but you can call me Gus! I am a student of Information Systems at Universidade Positivo, with expected graduation in June 2025. Currently, I am an intern for 6 months with a focus on web application development. I have almost a decade of experience working in different areas, such as support analyst and sales consultant. During this time, I have developed valuable skills in communication, problem-solving, and teamwork.
+my name is Gustavo Garayo, but you can call me Gus! I am a student of Information Systems at Universidade Positivo, with expected graduation in June 2025. Currently, I am an intern for almost a year with a focus on web application development. I have almost a decade of experience working in different areas, such as support analyst and sales consultant. During this time, I have developed valuable skills in communication, problem-solving, and teamwork.
 
 I have been focusing on developing my skills in languages such as JavaScript, ReactJS, HTML, CSS, and Java, as well as frameworks such as Spring Boot and NodeJS.
 
